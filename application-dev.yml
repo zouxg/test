@@ -1,0 +1,7 @@
+server:
+  port: 9092
+spring:
+  application:
+    name: panda-gen-service
+  profiles:
+    active: dev
